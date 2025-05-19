@@ -1,0 +1,42 @@
+.excel-card-link {
+  text-decoration: none;
+  display: block;
+  margin-bottom: 16px;
+}
+
+.excel-card {
+  transition: all 0.3s;
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+.excel-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 16px rgba(0,0,0,0.1);
+}
+
+.excel-icon {
+  margin-bottom: 16px;
+  display: flex;
+  align-items: center;
+}
+
+.excel-info h3 {
+  color: #1f1f1f;
+  margin-bottom: 8px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.excel-info p {
+  color: #8c8c8c;
+  margin-bottom: 8px;
+  font-size: 14px;
+}
+
+.excel-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px;
+} 

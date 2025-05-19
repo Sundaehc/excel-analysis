@@ -1,0 +1,30 @@
+.excel-list-container {
+  padding: 24px;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.excel-list-header {
+  margin-bottom: 24px;
+  text-align: center;
+}
+
+.excel-list-header h2 {
+  color: #1f1f1f;
+  margin-bottom: 8px;
+}
+
+.subtitle {
+  color: #8c8c8c;
+  margin-bottom: 24px;
+}
+
+.search-input {
+  max-width: 500px;
+  margin: 0 auto 24px;
+}
+
+.loading-container {
+  text-align: center;
+  padding: 50px 0;
+} 

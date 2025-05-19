@@ -1,0 +1,102 @@
+.excel-detail-container {
+  padding: 24px;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.breadcrumb {
+  margin-bottom: 16px;
+}
+
+.excel-title {
+  color: #1f1f1f;
+  margin-bottom: 16px;
+}
+
+.loading-container {
+  text-align: center;
+  padding: 100px 0;
+}
+
+.no-sheets {
+  margin-top: 24px;
+  background-color: #fff;
+  border-radius: 8px;
+  padding: 24px;
+}
+
+/* 标签页样式 */
+.excel-detail-tabs {
+  background: #fff;
+  border-radius: 8px;
+  padding: 16px 16px 0;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
+}
+
+.excel-detail-tabs .ant-tabs-tab {
+  font-size: 16px;
+}
+
+.excel-detail-tabs .ant-tabs-content {
+  padding-top: 16px;
+}
+
+.excel-detail-tabs .ant-tabs-nav {
+  margin-bottom: 16px;
+}
+
+.excel-detail-tabs .ant-tabs-tab-active {
+  color: #1890ff;
+}
+
+.excel-detail-tabs .ant-tabs-tab:hover {
+  color: #40a9ff;
+}
+
+/* 图表区域样式 */
+.chart-display {
+  margin-top: 24px;
+}
+
+.chart-controls {
+  margin-bottom: 16px;
+}
+
+.chart-container {
+  min-height: 400px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.chart-loading {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 400px;
+}
+
+.no-data {
+  text-align: center;
+  color: #999;
+  height: 400px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* 移动端适配 */
+@media (max-width: 768px) {
+  .excel-detail-container {
+    padding: 16px;
+  }
+  
+  .chart-container {
+    min-height: 300px;
+  }
+  
+  .excel-detail-tabs .ant-tabs-tab {
+    padding: 8px 12px;
+    font-size: 14px;
+  }
+} 

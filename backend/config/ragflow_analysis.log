@@ -1,0 +1,337 @@
+2025-04-24 15:23:56,330 - __main__ - INFO - 处理文件: 数据源, 将使用提问: 帮我分析数据源数据生成一份详细报告
+2025-04-24 15:23:56,361 - __main__ - ERROR - 处理数据集或会话时出错: [Errno 13] Permission denied: '\\\\HEDE-RPANSERVER\\Server\\file_srv\\VipDataAnalysis\\数据源'
+2025-04-24 15:24:46,856 - __main__ - INFO - 处理文件: 数据源, 将使用提问: 帮我分析数据源数据生成一份详细报告
+2025-04-24 15:24:46,877 - __main__ - ERROR - 处理数据集或会话时出错: [Errno 13] Permission denied: '\\\\HEDE-RPANSERVER\\Server\\file_srv\\VipDataAnalysis\\数据源'
+2025-04-24 15:27:02,456 - __main__ - INFO - 处理文件: 数据源, 将使用提问: 帮我分析数据源数据生成一份详细报告
+2025-04-24 15:27:02,479 - __main__ - ERROR - 处理数据集或会话时出错: [Errno 13] Permission denied: '\\\\HEDE-RPANSERVER\\Server\\file_srv\\VipDataAnalysis\\数据源'
+2025-04-24 15:28:03,973 - __main__ - INFO - 处理文件: 数据源, 将使用提问: 帮我分析数据源数据生成一份详细报告
+2025-04-24 15:28:03,993 - __main__ - ERROR - 处理数据集或会话时出错: [Errno 13] Permission denied: '\\\\HEDE-RPANSERVER\\Server\\file_srv\\VipDataAnalysis\\数据源'
+2025-04-24 15:38:41,167 - __main__ - INFO - 处理文件: 数据源, 将使用提问: 帮我分析数据源数据生成一份详细报告
+2025-04-24 15:38:41,186 - __main__ - ERROR - 处理数据集或会话时出错: [Errno 13] Permission denied: '\\\\HEDE-RPANSERVER\\Server\\file_srv\\VipDataAnalysis\\数据源'
+2025-04-24 15:50:29,479 - analytics.ai_analysis - INFO - 处理文件: 男鞋任意报整理.xlsx, 将使用提问: 帮我分析男鞋任意报整理数据生成一份详细报告
+2025-04-24 15:50:29,605 - analytics.ai_analysis - ERROR - 上传文件到Minio失败: [WinError 2] 系统找不到指定的文件。: 'C:\\Project\\excel_platform\\backend\\男鞋任意报整理.xlsx'
+2025-04-24 15:50:29,606 - analytics.ai_analysis - INFO - 处理文件: 男鞋周报整理.xlsx, 将使用提问: 帮我分析男鞋周报整理数据生成一份详细报告
+2025-04-24 15:50:29,662 - analytics.ai_analysis - ERROR - 上传文件到Minio失败: [WinError 2] 系统找不到指定的文件。: 'C:\\Project\\excel_platform\\backend\\男鞋周报整理.xlsx'
+2025-04-24 15:53:49,818 - analytics.ai_analysis - INFO - 处理文件: 男鞋任意报整理.xlsx, 将使用提问: 帮我分析男鞋任意报整理数据生成一份详细报告
+2025-04-24 15:53:49,898 - analytics.ai_analysis - INFO - 文件 男鞋任意报整理.xlsx 已成功上传到 MinIO 路径: http://localhost:9000/excel-reports/男鞋任意报整理.xlsx
+2025-04-24 15:53:50,055 - analytics.ai_analysis - INFO - 文档处理状态: RUNNING
+2025-04-24 15:54:00,067 - analytics.ai_analysis - INFO - 文档处理状态: RUNNING
+2025-04-24 15:54:10,090 - analytics.ai_analysis - INFO - 文档处理状态: RUNNING
+2025-04-24 15:54:20,102 - analytics.ai_analysis - INFO - 文档处理状态: RUNNING
+2025-04-24 15:54:30,130 - analytics.ai_analysis - INFO - 文档处理状态: RUNNING
+2025-04-24 15:54:40,154 - analytics.ai_analysis - INFO - 文档处理状态: RUNNING
+2025-04-24 15:54:50,164 - analytics.ai_analysis - INFO - 文档处理状态: RUNNING
+2025-04-24 15:55:00,180 - analytics.ai_analysis - INFO - 文档处理状态: RUNNING
+2025-04-24 15:55:10,217 - analytics.ai_analysis - INFO - 文档处理状态: RUNNING
+2025-04-24 15:55:20,235 - analytics.ai_analysis - INFO - 文档处理状态: RUNNING
+2025-04-24 15:55:30,250 - analytics.ai_analysis - INFO - 文档处理状态: RUNNING
+2025-04-24 15:55:40,261 - analytics.ai_analysis - INFO - 文档处理状态: RUNNING
+2025-04-24 15:55:50,272 - analytics.ai_analysis - INFO - 文档处理状态: RUNNING
+2025-04-24 15:56:00,284 - analytics.ai_analysis - INFO - 文档处理状态: RUNNING
+2025-04-24 15:56:10,294 - analytics.ai_analysis - INFO - 文档处理状态: DONE
+2025-04-24 15:56:10,325 - analytics.ai_analysis - INFO - 创建新助手: 贾维斯_男鞋任意报整理.xlsx
+2025-04-24 15:56:10,370 - analytics.ai_analysis - INFO - 创建助手成功
+2025-04-24 15:56:10,370 - analytics.ai_analysis - INFO - 创建新会话: 数据分析_男鞋任意报整理_1745481370
+2025-04-24 15:56:10,410 - analytics.ai_analysis - INFO - 创建会话成功
+2025-04-24 15:56:38,473 - analytics.ai_analysis - INFO - 开始保存男鞋任意报整理.xlsx的分析结果到数据库
+2025-04-24 15:56:38,474 - analytics.ai_analysis - INFO - 处理文件: 数据源, 将使用提问: 帮我分析数据源数据生成一份详细报告
+2025-04-24 15:56:38,548 - analytics.ai_analysis - ERROR - 处理数据集或会话时出错: [Errno 13] Permission denied: '\\\\HEDE-RPANSERVER\\Server\\file_srv\\VipDataAnalysis\\数据源'
+2025-04-24 15:56:38,598 - analytics.ai_analysis - ERROR - 保存到数据库时出错: 'DBConnector' object has no attribute 'connect'
+2025-04-24 15:56:38,599 - analytics.ai_analysis - WARNING - 无法保存男鞋任意报整理.xlsx的分析结果和Minio路径到数据库
+2025-04-24 15:56:38,602 - analytics.ai_analysis - ERROR - 数据库操作失败: 'dict' object has no attribute 'close'
+2025-04-24 15:56:38,606 - analytics.ai_analysis - INFO - 处理文件: 男鞋周报整理.xlsx, 将使用提问: 帮我分析男鞋周报整理数据生成一份详细报告
+2025-04-24 15:56:38,672 - analytics.ai_analysis - INFO - 文件 男鞋周报整理.xlsx 已成功上传到 MinIO 路径: http://localhost:9000/excel-reports/男鞋周报整理.xlsx
+2025-04-24 15:56:38,812 - analytics.ai_analysis - INFO - 文档处理状态: RUNNING
+2025-04-24 15:56:48,828 - analytics.ai_analysis - INFO - 文档处理状态: RUNNING
+2025-04-24 15:56:58,850 - analytics.ai_analysis - INFO - 文档处理状态: RUNNING
+2025-04-24 15:57:08,870 - analytics.ai_analysis - INFO - 文档处理状态: RUNNING
+2025-04-24 15:57:18,883 - analytics.ai_analysis - INFO - 文档处理状态: RUNNING
+2025-04-24 15:57:28,906 - analytics.ai_analysis - INFO - 文档处理状态: RUNNING
+2025-04-24 15:57:38,927 - analytics.ai_analysis - INFO - 文档处理状态: RUNNING
+2025-04-24 15:57:48,940 - analytics.ai_analysis - INFO - 文档处理状态: RUNNING
+2025-04-24 15:57:58,951 - analytics.ai_analysis - INFO - 文档处理状态: RUNNING
+2025-04-24 15:58:08,964 - analytics.ai_analysis - INFO - 文档处理状态: RUNNING
+2025-04-24 15:58:18,989 - analytics.ai_analysis - INFO - 文档处理状态: RUNNING
+2025-04-24 15:58:29,002 - analytics.ai_analysis - INFO - 文档处理状态: RUNNING
+2025-04-24 15:58:39,013 - analytics.ai_analysis - INFO - 文档处理状态: RUNNING
+2025-04-24 15:58:49,027 - analytics.ai_analysis - INFO - 文档处理状态: RUNNING
+2025-04-24 15:58:59,047 - analytics.ai_analysis - INFO - 文档处理状态: DONE
+2025-04-24 15:58:59,063 - analytics.ai_analysis - INFO - 创建新助手: 贾维斯_男鞋周报整理.xlsx
+2025-04-24 15:58:59,102 - analytics.ai_analysis - INFO - 创建助手成功
+2025-04-24 15:58:59,103 - analytics.ai_analysis - INFO - 创建新会话: 数据分析_男鞋周报整理_1745481539
+2025-04-24 15:58:59,163 - analytics.ai_analysis - INFO - 创建会话成功
+2025-04-24 15:59:27,730 - analytics.ai_analysis - INFO - 开始保存男鞋周报整理.xlsx的分析结果到数据库
+2025-04-24 15:59:27,741 - analytics.ai_analysis - INFO - 处理文件: 数据源, 将使用提问: 帮我分析数据源数据生成一份详细报告
+2025-04-24 15:59:27,764 - analytics.ai_analysis - ERROR - 处理数据集或会话时出错: [Errno 13] Permission denied: '\\\\HEDE-RPANSERVER\\Server\\file_srv\\VipDataAnalysis\\数据源'
+2025-04-24 15:59:27,793 - analytics.ai_analysis - ERROR - 保存到数据库时出错: 'DBConnector' object has no attribute 'connect'
+2025-04-24 15:59:27,794 - analytics.ai_analysis - WARNING - 无法保存男鞋周报整理.xlsx的分析结果和Minio路径到数据库
+2025-04-24 15:59:27,797 - analytics.ai_analysis - ERROR - 数据库操作失败: 'dict' object has no attribute 'close'
+2025-04-24 16:07:20,686 - analytics.ai_analysis - INFO - 处理文件: 男鞋任意报整理.xlsx, 将使用提问: 帮我分析男鞋任意报整理数据生成一份详细报告
+2025-04-24 16:07:20,728 - analytics.ai_analysis - INFO - 找到已存在的助手: 贾维斯_男鞋任意报整理.xlsx
+2025-04-24 16:07:20,728 - analytics.ai_analysis - INFO - 创建新会话: 数据分析_男鞋任意报整理_1745482040
+2025-04-24 16:07:20,747 - analytics.ai_analysis - INFO - 创建会话成功
+2025-04-24 16:09:56,584 - analytics.ai_analysis - INFO - 处理文件: 男鞋任意报整理.xlsx, 将使用提问: 帮我分析男鞋任意报整理数据生成一份详细报告
+2025-04-24 16:09:56,671 - analytics.ai_analysis - INFO - 文件 男鞋任意报整理.xlsx 已成功上传到 MinIO 路径: http://localhost:9000/excel-reports/男鞋任意报整理.xlsx
+2025-04-24 16:09:57,140 - analytics.ai_analysis - INFO - 文档处理状态: RUNNING
+2025-04-24 16:10:07,164 - analytics.ai_analysis - INFO - 文档处理状态: RUNNING
+2025-04-24 16:10:17,177 - analytics.ai_analysis - INFO - 文档处理状态: RUNNING
+2025-04-24 16:10:27,188 - analytics.ai_analysis - INFO - 文档处理状态: RUNNING
+2025-04-24 16:10:37,200 - analytics.ai_analysis - INFO - 文档处理状态: RUNNING
+2025-04-24 16:10:47,224 - analytics.ai_analysis - INFO - 文档处理状态: RUNNING
+2025-04-24 16:10:57,237 - analytics.ai_analysis - INFO - 文档处理状态: RUNNING
+2025-04-24 16:11:07,260 - analytics.ai_analysis - INFO - 文档处理状态: RUNNING
+2025-04-24 16:11:17,272 - analytics.ai_analysis - INFO - 文档处理状态: RUNNING
+2025-04-24 16:11:27,290 - analytics.ai_analysis - INFO - 文档处理状态: RUNNING
+2025-04-24 16:11:37,303 - analytics.ai_analysis - INFO - 文档处理状态: RUNNING
+2025-04-24 16:11:47,316 - analytics.ai_analysis - INFO - 文档处理状态: RUNNING
+2025-04-24 16:11:57,340 - analytics.ai_analysis - INFO - 文档处理状态: RUNNING
+2025-04-24 16:12:07,358 - analytics.ai_analysis - INFO - 文档处理状态: RUNNING
+2025-04-24 16:12:17,377 - analytics.ai_analysis - INFO - 文档处理状态: DONE
+2025-04-24 16:12:17,389 - analytics.ai_analysis - INFO - 创建新助手: 贾维斯_男鞋任意报整理.xlsx
+2025-04-24 16:12:17,422 - analytics.ai_analysis - INFO - 创建助手成功
+2025-04-24 16:12:17,422 - analytics.ai_analysis - INFO - 创建新会话: 数据分析_男鞋任意报整理_1745482337
+2025-04-24 16:12:17,437 - analytics.ai_analysis - INFO - 创建会话成功
+2025-04-24 16:47:52,205 - analytics.ai_analysis - INFO - 处理文件: 男鞋任意报整理.xlsx, 将使用提问: 帮我分析男鞋任意报整理数据生成一份详细报告
+2025-04-24 16:47:52,362 - analytics.ai_analysis - INFO - 文件 男鞋任意报整理.xlsx 已成功上传到 MinIO 路径: http://localhost:9000/excel-reports/男鞋任意报整理.xlsx
+2025-04-24 16:47:52,958 - analytics.ai_analysis - INFO - 文档处理状态: RUNNING
+2025-04-24 16:48:02,968 - analytics.ai_analysis - INFO - 文档处理状态: RUNNING
+2025-04-24 16:48:12,978 - analytics.ai_analysis - INFO - 文档处理状态: RUNNING
+2025-04-24 16:48:23,005 - analytics.ai_analysis - INFO - 文档处理状态: RUNNING
+2025-04-24 16:48:33,016 - analytics.ai_analysis - INFO - 文档处理状态: RUNNING
+2025-04-24 16:48:43,027 - analytics.ai_analysis - INFO - 文档处理状态: RUNNING
+2025-04-24 16:48:53,042 - analytics.ai_analysis - INFO - 文档处理状态: RUNNING
+2025-04-24 16:49:03,056 - analytics.ai_analysis - INFO - 文档处理状态: RUNNING
+2025-04-24 16:49:13,066 - analytics.ai_analysis - INFO - 文档处理状态: RUNNING
+2025-04-24 16:49:23,095 - analytics.ai_analysis - INFO - 文档处理状态: RUNNING
+2025-04-24 16:49:33,121 - analytics.ai_analysis - INFO - 文档处理状态: RUNNING
+2025-04-24 16:49:43,146 - analytics.ai_analysis - INFO - 文档处理状态: RUNNING
+2025-04-24 16:49:53,173 - analytics.ai_analysis - INFO - 文档处理状态: RUNNING
+2025-04-24 16:50:03,191 - analytics.ai_analysis - INFO - 文档处理状态: RUNNING
+2025-04-24 16:50:13,205 - analytics.ai_analysis - INFO - 文档处理状态: DONE
+2025-04-24 16:50:13,219 - analytics.ai_analysis - INFO - 创建新助手: 贾维斯_男鞋任意报整理.xlsx
+2025-04-24 16:50:13,262 - analytics.ai_analysis - INFO - 创建助手成功
+2025-04-24 16:50:13,263 - analytics.ai_analysis - INFO - 创建新会话: 数据分析_男鞋任意报整理_1745484613
+2025-04-24 16:50:13,298 - analytics.ai_analysis - INFO - 创建会话成功
+2025-04-24 16:50:42,321 - analytics.ai_analysis - INFO - 开始保存男鞋任意报整理.xlsx的分析结果到数据库
+2025-04-24 16:50:42,357 - analytics.ai_analysis - INFO - 数据库连接成功
+2025-04-24 16:50:42,358 - analytics.ai_analysis - ERROR - 保存到数据库时出错: Could not process parameters: str(男鞋任意报整理.xlsx), it must be of type list, tuple or dict
+2025-04-24 16:50:42,358 - analytics.ai_analysis - WARNING - 无法保存男鞋任意报整理.xlsx的分析结果和Minio路径到数据库
+2025-04-24 16:50:42,361 - analytics.ai_analysis - INFO - 处理文件: 男鞋周报整理.xlsx, 将使用提问: 帮我分析男鞋周报整理数据生成一份详细报告
+2025-04-24 16:50:42,463 - analytics.ai_analysis - INFO - 文件 男鞋周报整理.xlsx 已成功上传到 MinIO 路径: http://localhost:9000/excel-reports/男鞋周报整理.xlsx
+2025-04-24 16:50:42,594 - analytics.ai_analysis - INFO - 文档处理状态: RUNNING
+2025-04-24 16:50:52,611 - analytics.ai_analysis - INFO - 文档处理状态: RUNNING
+2025-04-24 16:51:02,628 - analytics.ai_analysis - INFO - 文档处理状态: RUNNING
+2025-04-24 16:51:12,644 - analytics.ai_analysis - INFO - 文档处理状态: RUNNING
+2025-04-24 16:51:22,665 - analytics.ai_analysis - INFO - 文档处理状态: RUNNING
+2025-04-24 16:51:32,677 - analytics.ai_analysis - INFO - 文档处理状态: RUNNING
+2025-04-24 16:51:42,692 - analytics.ai_analysis - INFO - 文档处理状态: RUNNING
+2025-04-24 16:51:52,718 - analytics.ai_analysis - INFO - 文档处理状态: RUNNING
+2025-04-24 16:52:02,734 - analytics.ai_analysis - INFO - 文档处理状态: RUNNING
+2025-04-24 16:52:12,751 - analytics.ai_analysis - INFO - 文档处理状态: RUNNING
+2025-04-24 16:52:22,775 - analytics.ai_analysis - INFO - 文档处理状态: RUNNING
+2025-04-24 16:52:32,787 - analytics.ai_analysis - INFO - 文档处理状态: RUNNING
+2025-04-24 16:52:42,812 - analytics.ai_analysis - INFO - 文档处理状态: RUNNING
+2025-04-24 16:52:52,830 - analytics.ai_analysis - INFO - 文档处理状态: RUNNING
+2025-04-24 16:53:02,842 - analytics.ai_analysis - INFO - 文档处理状态: DONE
+2025-04-24 16:53:02,854 - analytics.ai_analysis - INFO - 创建新助手: 贾维斯_男鞋周报整理.xlsx
+2025-04-24 16:53:02,906 - analytics.ai_analysis - INFO - 创建助手成功
+2025-04-24 16:53:02,907 - analytics.ai_analysis - INFO - 创建新会话: 数据分析_男鞋周报整理_1745484782
+2025-04-24 16:53:02,958 - analytics.ai_analysis - INFO - 创建会话成功
+2025-04-24 16:53:34,055 - analytics.ai_analysis - INFO - 开始保存男鞋周报整理.xlsx的分析结果到数据库
+2025-04-24 16:53:34,083 - analytics.ai_analysis - INFO - 数据库连接成功
+2025-04-24 16:53:34,083 - analytics.ai_analysis - ERROR - 保存到数据库时出错: Could not process parameters: str(男鞋周报整理.xlsx), it must be of type list, tuple or dict
+2025-04-24 16:53:34,084 - analytics.ai_analysis - WARNING - 无法保存男鞋周报整理.xlsx的分析结果和Minio路径到数据库
+2025-04-24 17:04:02,953 - analytics.ai_analysis - INFO - 处理文件: 男鞋任意报整理.xlsx, 将使用提问: 帮我分析男鞋任意报整理数据生成一份详细报告
+2025-04-24 17:04:03,113 - analytics.ai_analysis - INFO - 文件 男鞋任意报整理.xlsx 已成功上传到 MinIO 路径: http://localhost:9000/excel-reports/男鞋任意报整理.xlsx
+2025-04-24 17:04:03,146 - analytics.ai_analysis - INFO - 数据库连接成功
+2025-04-24 17:04:03,146 - analytics.ai_analysis - ERROR - 保存到数据库时出错: Could not process parameters: str(男鞋任意报整理.xlsx), it must be of type list, tuple or dict
+2025-04-24 17:04:03,860 - analytics.ai_analysis - INFO - 文档处理状态: RUNNING
+2025-04-24 17:04:13,879 - analytics.ai_analysis - INFO - 文档处理状态: RUNNING
+2025-04-24 17:04:23,890 - analytics.ai_analysis - INFO - 文档处理状态: RUNNING
+2025-04-24 17:04:33,911 - analytics.ai_analysis - INFO - 文档处理状态: RUNNING
+2025-04-24 17:04:43,940 - analytics.ai_analysis - INFO - 文档处理状态: FAIL
+2025-04-24 17:04:43,951 - analytics.ai_analysis - INFO - 处理文件: 男鞋周报整理.xlsx, 将使用提问: 帮我分析男鞋周报整理数据生成一份详细报告
+2025-04-24 17:04:44,007 - analytics.ai_analysis - INFO - 文件 男鞋周报整理.xlsx 已成功上传到 MinIO 路径: http://localhost:9000/excel-reports/男鞋周报整理.xlsx
+2025-04-24 17:04:44,032 - analytics.ai_analysis - INFO - 数据库连接成功
+2025-04-24 17:04:44,033 - analytics.ai_analysis - ERROR - 保存到数据库时出错: Could not process parameters: str(男鞋周报整理.xlsx), it must be of type list, tuple or dict
+2025-04-24 17:04:44,386 - analytics.ai_analysis - INFO - 文档处理状态: RUNNING
+2025-04-24 17:04:54,404 - analytics.ai_analysis - INFO - 文档处理状态: RUNNING
+2025-04-24 17:05:04,419 - analytics.ai_analysis - INFO - 文档处理状态: RUNNING
+2025-04-24 17:05:14,438 - analytics.ai_analysis - INFO - 文档处理状态: RUNNING
+2025-04-24 17:05:24,454 - analytics.ai_analysis - INFO - 文档处理状态: RUNNING
+2025-04-24 17:05:34,474 - analytics.ai_analysis - INFO - 文档处理状态: RUNNING
+2025-04-24 17:05:44,485 - analytics.ai_analysis - INFO - 文档处理状态: RUNNING
+2025-04-24 17:05:54,500 - analytics.ai_analysis - INFO - 文档处理状态: RUNNING
+2025-04-24 17:06:04,516 - analytics.ai_analysis - INFO - 文档处理状态: RUNNING
+2025-04-24 17:06:14,534 - analytics.ai_analysis - INFO - 文档处理状态: RUNNING
+2025-04-24 17:06:24,555 - analytics.ai_analysis - INFO - 文档处理状态: RUNNING
+2025-04-24 17:06:34,578 - analytics.ai_analysis - INFO - 文档处理状态: RUNNING
+2025-04-24 17:06:44,600 - analytics.ai_analysis - INFO - 文档处理状态: RUNNING
+2025-04-24 17:06:54,629 - analytics.ai_analysis - INFO - 文档处理状态: RUNNING
+2025-04-24 17:07:04,658 - analytics.ai_analysis - INFO - 文档处理状态: DONE
+2025-04-24 17:07:04,673 - analytics.ai_analysis - INFO - 找到已存在的助手: 贾维斯_男鞋周报整理.xlsx
+2025-04-24 17:07:04,674 - analytics.ai_analysis - INFO - 创建新会话: 数据分析_男鞋周报整理_1745485624
+2025-04-24 17:07:04,697 - analytics.ai_analysis - INFO - 创建会话成功
+2025-04-24 17:07:04,739 - analytics.ai_analysis - INFO - 开始保存男鞋周报整理.xlsx的分析结果到数据库
+2025-04-24 17:07:04,764 - analytics.ai_analysis - INFO - 数据库连接成功
+2025-04-24 17:07:04,764 - analytics.ai_analysis - ERROR - 数据库操作失败: Could not process parameters: str(男鞋周报整理.xlsx), it must be of type list, tuple or dict
+2025-04-24 17:10:38,922 - analytics.ai_analysis - INFO - 处理文件: 男鞋任意报整理.xlsx, 将使用提问: 帮我分析男鞋任意报整理数据生成一份详细报告
+2025-04-24 17:10:38,963 - analytics.ai_analysis - ERROR - 处理数据集或会话时出错: Can't stop parsing document with progress at 0 or 100
+2025-04-24 17:10:38,964 - analytics.ai_analysis - INFO - 处理文件: 男鞋周报整理.xlsx, 将使用提问: 帮我分析男鞋周报整理数据生成一份详细报告
+2025-04-24 17:10:38,997 - analytics.ai_analysis - INFO - 找到已存在的助手: 贾维斯_男鞋周报整理.xlsx
+2025-04-24 17:10:38,997 - analytics.ai_analysis - INFO - 创建新会话: 数据分析_男鞋周报整理_1745485838
+2025-04-24 17:10:39,040 - analytics.ai_analysis - INFO - 创建会话成功
+2025-04-24 17:10:39,085 - analytics.ai_analysis - INFO - 开始保存男鞋周报整理.xlsx的分析结果到数据库
+2025-04-24 17:10:39,117 - analytics.ai_analysis - INFO - 数据库连接成功
+2025-04-24 17:10:39,121 - analytics.ai_analysis - ERROR - 数据库操作失败: 1054 (42S22): Unknown column 'create_time' in 'field list'
+2025-04-24 17:11:39,684 - analytics.ai_analysis - INFO - 处理文件: 男鞋任意报整理.xlsx, 将使用提问: 帮我分析男鞋任意报整理数据生成一份详细报告
+2025-04-24 17:11:39,720 - analytics.ai_analysis - ERROR - 处理数据集或会话时出错: Can't stop parsing document with progress at 0 or 100
+2025-04-24 17:11:39,721 - analytics.ai_analysis - INFO - 处理文件: 男鞋周报整理.xlsx, 将使用提问: 帮我分析男鞋周报整理数据生成一份详细报告
+2025-04-24 17:11:39,756 - analytics.ai_analysis - INFO - 找到已存在的助手: 贾维斯_男鞋周报整理.xlsx
+2025-04-24 17:11:39,757 - analytics.ai_analysis - INFO - 创建新会话: 数据分析_男鞋周报整理_1745485899
+2025-04-24 17:11:39,820 - analytics.ai_analysis - INFO - 创建会话成功
+2025-04-24 17:11:39,846 - analytics.ai_analysis - INFO - 开始保存男鞋周报整理.xlsx的分析结果到数据库
+2025-04-24 17:11:39,881 - analytics.ai_analysis - INFO - 数据库连接成功
+2025-04-24 17:11:39,882 - analytics.ai_analysis - ERROR - 数据库操作失败: 1364 (HY000): Field 'minio_report_path' doesn't have a default value
+2025-04-24 17:12:07,551 - analytics.ai_analysis - INFO - 处理文件: 男鞋任意报整理.xlsx, 将使用提问: 帮我分析男鞋任意报整理数据生成一份详细报告
+2025-04-24 17:12:07,588 - analytics.ai_analysis - ERROR - 处理数据集或会话时出错: Can't stop parsing document with progress at 0 or 100
+2025-04-24 17:12:07,589 - analytics.ai_analysis - INFO - 处理文件: 男鞋周报整理.xlsx, 将使用提问: 帮我分析男鞋周报整理数据生成一份详细报告
+2025-04-24 17:12:07,624 - analytics.ai_analysis - INFO - 找到已存在的助手: 贾维斯_男鞋周报整理.xlsx
+2025-04-24 17:12:07,625 - analytics.ai_analysis - INFO - 创建新会话: 数据分析_男鞋周报整理_1745485927
+2025-04-24 17:12:07,663 - analytics.ai_analysis - INFO - 创建会话成功
+2025-04-24 17:12:07,707 - analytics.ai_analysis - INFO - 开始保存男鞋周报整理.xlsx的分析结果到数据库
+2025-04-24 17:12:07,741 - analytics.ai_analysis - INFO - 数据库连接成功
+2025-04-24 17:12:07,761 - analytics.ai_analysis - INFO - 插入新记录: 男鞋周报整理.xlsx
+2025-04-24 17:12:07,761 - analytics.ai_analysis - INFO - 男鞋周报整理.xlsx的分析结果已成功保存到数据库
+2025-04-24 17:18:16,135 - analytics.ai_analysis - INFO - 处理文件: 男鞋任意报整理.xlsx, 将使用提问: 帮我分析男鞋任意报整理数据生成一份详细报告
+2025-04-24 17:18:16,310 - analytics.ai_analysis - INFO - 文件 男鞋任意报整理.xlsx 已成功上传到 MinIO 路径: http://localhost:9000/excel-reports/男鞋任意报整理.xlsx
+2025-04-24 17:18:16,803 - analytics.ai_analysis - INFO - 文档处理状态: RUNNING
+2025-04-24 17:18:26,827 - analytics.ai_analysis - INFO - 文档处理状态: RUNNING
+2025-04-24 17:18:36,841 - analytics.ai_analysis - INFO - 文档处理状态: RUNNING
+2025-04-24 17:18:46,860 - analytics.ai_analysis - INFO - 文档处理状态: RUNNING
+2025-04-24 17:18:56,873 - analytics.ai_analysis - INFO - 文档处理状态: RUNNING
+2025-04-24 17:19:06,898 - analytics.ai_analysis - INFO - 文档处理状态: RUNNING
+2025-04-24 17:19:16,919 - analytics.ai_analysis - INFO - 文档处理状态: RUNNING
+2025-04-24 17:19:26,940 - analytics.ai_analysis - INFO - 文档处理状态: RUNNING
+2025-04-24 17:19:36,964 - analytics.ai_analysis - INFO - 文档处理状态: RUNNING
+2025-04-24 17:19:46,985 - analytics.ai_analysis - INFO - 文档处理状态: FAIL
+2025-04-24 17:19:46,993 - analytics.ai_analysis - INFO - 处理文件: 男鞋周报整理.xlsx, 将使用提问: 帮我分析男鞋周报整理数据生成一份详细报告
+2025-04-24 17:19:47,084 - analytics.ai_analysis - INFO - 文件 男鞋周报整理.xlsx 已成功上传到 MinIO 路径: http://localhost:9000/excel-reports/男鞋周报整理.xlsx
+2025-04-24 17:19:47,426 - analytics.ai_analysis - INFO - 文档处理状态: RUNNING
+2025-04-24 17:19:57,446 - analytics.ai_analysis - INFO - 文档处理状态: RUNNING
+2025-04-24 17:20:07,458 - analytics.ai_analysis - INFO - 文档处理状态: RUNNING
+2025-04-24 17:20:17,469 - analytics.ai_analysis - INFO - 文档处理状态: RUNNING
+2025-04-24 17:20:27,488 - analytics.ai_analysis - INFO - 文档处理状态: RUNNING
+2025-04-24 17:20:37,507 - analytics.ai_analysis - INFO - 文档处理状态: FAIL
+2025-04-24 17:22:21,422 - analytics.ai_analysis - INFO - 处理文件: 男鞋任意报整理.xlsx, 将使用提问: 帮我分析男鞋任意报整理数据生成一份详细报告
+2025-04-24 17:22:21,581 - analytics.ai_analysis - INFO - 文件 男鞋任意报整理.xlsx 已成功上传到 MinIO 路径: http://localhost:9000/excel-reports/男鞋任意报整理.xlsx
+2025-04-24 17:22:22,084 - analytics.ai_analysis - INFO - 文档处理状态: RUNNING
+2025-04-24 17:22:32,097 - analytics.ai_analysis - INFO - 文档处理状态: RUNNING
+2025-04-24 17:22:42,108 - analytics.ai_analysis - INFO - 文档处理状态: RUNNING
+2025-04-24 17:22:52,121 - analytics.ai_analysis - INFO - 文档处理状态: RUNNING
+2025-04-24 17:23:02,134 - analytics.ai_analysis - INFO - 文档处理状态: RUNNING
+2025-04-24 17:23:12,146 - analytics.ai_analysis - INFO - 文档处理状态: RUNNING
+2025-04-24 17:23:22,161 - analytics.ai_analysis - INFO - 文档处理状态: RUNNING
+2025-04-24 17:23:32,173 - analytics.ai_analysis - INFO - 文档处理状态: RUNNING
+2025-04-24 17:23:42,185 - analytics.ai_analysis - INFO - 文档处理状态: RUNNING
+2025-04-24 17:23:52,197 - analytics.ai_analysis - INFO - 文档处理状态: RUNNING
+2025-04-24 17:24:02,216 - analytics.ai_analysis - INFO - 文档处理状态: RUNNING
+2025-04-24 17:24:12,230 - analytics.ai_analysis - INFO - 文档处理状态: RUNNING
+2025-04-24 17:24:22,242 - analytics.ai_analysis - INFO - 文档处理状态: DONE
+2025-04-24 17:24:22,251 - analytics.ai_analysis - INFO - 创建新助手: 贾维斯_男鞋任意报整理.xlsx
+2025-04-24 17:24:22,280 - analytics.ai_analysis - INFO - 创建助手成功
+2025-04-24 17:24:22,280 - analytics.ai_analysis - INFO - 创建新会话: 数据分析_男鞋任意报整理_1745486662
+2025-04-24 17:24:22,305 - analytics.ai_analysis - INFO - 创建会话成功
+2025-04-24 17:24:49,010 - analytics.ai_analysis - INFO - 开始保存男鞋任意报整理.xlsx的分析结果到数据库
+2025-04-24 17:24:49,010 - analytics.ai_analysis - ERROR - 数据库操作失败: save_data_to_db() missing 1 required positional argument: 'minio_report_path'
+2025-04-24 17:24:49,016 - analytics.ai_analysis - INFO - 处理文件: 男鞋周报整理.xlsx, 将使用提问: 帮我分析男鞋周报整理数据生成一份详细报告
+2025-04-24 17:24:49,086 - analytics.ai_analysis - INFO - 文件 男鞋周报整理.xlsx 已成功上传到 MinIO 路径: http://localhost:9000/excel-reports/男鞋周报整理.xlsx
+2025-04-24 17:24:49,446 - analytics.ai_analysis - INFO - 文档处理状态: RUNNING
+2025-04-24 17:24:59,462 - analytics.ai_analysis - INFO - 文档处理状态: RUNNING
+2025-04-24 17:25:09,485 - analytics.ai_analysis - INFO - 文档处理状态: RUNNING
+2025-04-24 17:25:19,501 - analytics.ai_analysis - INFO - 文档处理状态: RUNNING
+2025-04-24 17:25:29,519 - analytics.ai_analysis - INFO - 文档处理状态: RUNNING
+2025-04-24 17:25:39,540 - analytics.ai_analysis - INFO - 文档处理状态: RUNNING
+2025-04-24 17:25:49,556 - analytics.ai_analysis - INFO - 文档处理状态: RUNNING
+2025-04-24 17:25:59,578 - analytics.ai_analysis - INFO - 文档处理状态: RUNNING
+2025-04-24 17:26:09,596 - analytics.ai_analysis - INFO - 文档处理状态: RUNNING
+2025-04-24 17:26:19,611 - analytics.ai_analysis - INFO - 文档处理状态: RUNNING
+2025-04-24 17:26:29,626 - analytics.ai_analysis - INFO - 文档处理状态: RUNNING
+2025-04-24 17:26:39,644 - analytics.ai_analysis - INFO - 文档处理状态: RUNNING
+2025-04-24 17:26:49,657 - analytics.ai_analysis - INFO - 文档处理状态: DONE
+2025-04-24 17:26:49,668 - analytics.ai_analysis - INFO - 创建新助手: 贾维斯_男鞋周报整理.xlsx
+2025-04-24 17:26:49,737 - analytics.ai_analysis - INFO - 创建助手成功
+2025-04-24 17:26:49,737 - analytics.ai_analysis - INFO - 创建新会话: 数据分析_男鞋周报整理_1745486809
+2025-04-24 17:26:49,786 - analytics.ai_analysis - INFO - 创建会话成功
+2025-04-24 17:27:19,839 - analytics.ai_analysis - INFO - 处理文件: 男鞋任意报整理.xlsx, 将使用提问: 帮我分析男鞋任意报整理数据生成一份详细报告
+2025-04-24 17:27:19,997 - analytics.ai_analysis - INFO - 文件 男鞋任意报整理.xlsx 已成功上传到 MinIO 路径: http://localhost:9000/excel-reports/男鞋任意报整理.xlsx
+2025-04-24 17:27:20,397 - analytics.ai_analysis - INFO - 文档处理状态: RUNNING
+2025-04-24 17:27:30,419 - analytics.ai_analysis - INFO - 文档处理状态: RUNNING
+2025-04-24 17:27:40,441 - analytics.ai_analysis - INFO - 文档处理状态: RUNNING
+2025-04-24 17:27:50,464 - analytics.ai_analysis - INFO - 文档处理状态: RUNNING
+2025-04-24 17:28:00,489 - analytics.ai_analysis - INFO - 文档处理状态: RUNNING
+2025-04-24 17:28:10,514 - analytics.ai_analysis - INFO - 文档处理状态: RUNNING
+2025-04-24 17:28:20,539 - analytics.ai_analysis - INFO - 文档处理状态: RUNNING
+2025-04-24 17:28:30,561 - analytics.ai_analysis - INFO - 文档处理状态: RUNNING
+2025-04-24 17:28:40,583 - analytics.ai_analysis - INFO - 文档处理状态: RUNNING
+2025-04-24 17:28:50,601 - analytics.ai_analysis - INFO - 文档处理状态: RUNNING
+2025-04-24 17:29:00,613 - analytics.ai_analysis - INFO - 文档处理状态: RUNNING
+2025-04-24 17:29:10,634 - analytics.ai_analysis - INFO - 文档处理状态: DONE
+2025-04-24 17:29:10,650 - analytics.ai_analysis - INFO - 创建新助手: 贾维斯_男鞋任意报整理.xlsx
+2025-04-24 17:29:10,690 - analytics.ai_analysis - INFO - 创建助手成功
+2025-04-24 17:29:10,691 - analytics.ai_analysis - INFO - 创建新会话: 数据分析_男鞋任意报整理_1745486950
+2025-04-24 17:29:10,729 - analytics.ai_analysis - INFO - 创建会话成功
+2025-04-24 17:29:41,168 - analytics.ai_analysis - INFO - 开始保存男鞋任意报整理.xlsx的分析结果到数据库
+2025-04-24 17:29:41,168 - analytics.ai_analysis - ERROR - 数据库操作失败: save_data_to_db() missing 1 required positional argument: 'minio_report_path'
+2025-04-24 17:29:41,172 - analytics.ai_analysis - INFO - 处理文件: 男鞋周报整理.xlsx, 将使用提问: 帮我分析男鞋周报整理数据生成一份详细报告
+2025-04-24 17:29:41,287 - analytics.ai_analysis - INFO - 文件 男鞋周报整理.xlsx 已成功上传到 MinIO 路径: http://localhost:9000/excel-reports/男鞋周报整理.xlsx
+2025-04-24 17:29:41,730 - analytics.ai_analysis - INFO - 文档处理状态: RUNNING
+2025-04-24 17:29:51,748 - analytics.ai_analysis - INFO - 文档处理状态: RUNNING
+2025-04-24 17:30:01,764 - analytics.ai_analysis - INFO - 文档处理状态: RUNNING
+2025-04-24 17:30:11,792 - analytics.ai_analysis - INFO - 文档处理状态: RUNNING
+2025-04-24 17:30:21,815 - analytics.ai_analysis - INFO - 文档处理状态: RUNNING
+2025-04-24 17:30:31,826 - analytics.ai_analysis - ERROR - 处理数据集或会话时出错: You don't own the dataset 5201c09a20ee11f0bdf5f6e29615d4b9. 
+2025-04-24 17:30:45,328 - analytics.ai_analysis - INFO - 处理文件: 男鞋任意报整理.xlsx, 将使用提问: 帮我分析男鞋任意报整理数据生成一份详细报告
+2025-04-24 17:30:45,487 - analytics.ai_analysis - INFO - 文件 男鞋任意报整理.xlsx 已成功上传到 MinIO 路径: http://localhost:9000/excel-reports/男鞋任意报整理.xlsx
+2025-04-24 17:30:45,927 - analytics.ai_analysis - INFO - 文档处理状态: RUNNING
+2025-04-24 17:30:55,943 - analytics.ai_analysis - INFO - 文档处理状态: RUNNING
+2025-04-24 17:31:05,963 - analytics.ai_analysis - INFO - 文档处理状态: RUNNING
+2025-04-24 17:31:15,985 - analytics.ai_analysis - INFO - 文档处理状态: RUNNING
+2025-04-24 17:31:25,998 - analytics.ai_analysis - INFO - 文档处理状态: RUNNING
+2025-04-24 17:31:36,016 - analytics.ai_analysis - INFO - 文档处理状态: RUNNING
+2025-04-24 17:31:46,029 - analytics.ai_analysis - INFO - 文档处理状态: RUNNING
+2025-04-24 17:31:56,043 - analytics.ai_analysis - INFO - 文档处理状态: RUNNING
+2025-04-24 17:32:06,065 - analytics.ai_analysis - INFO - 文档处理状态: RUNNING
+2025-04-24 17:32:16,086 - analytics.ai_analysis - INFO - 文档处理状态: RUNNING
+2025-04-24 17:32:26,098 - analytics.ai_analysis - INFO - 文档处理状态: RUNNING
+2025-04-24 17:32:36,114 - analytics.ai_analysis - INFO - 文档处理状态: DONE
+2025-04-24 17:32:36,127 - analytics.ai_analysis - INFO - 创建新助手: 贾维斯_男鞋任意报整理.xlsx
+2025-04-24 17:32:36,194 - analytics.ai_analysis - INFO - 创建助手成功
+2025-04-24 17:32:36,195 - analytics.ai_analysis - INFO - 创建新会话: 数据分析_男鞋任意报整理_1745487156
+2025-04-24 17:32:36,271 - analytics.ai_analysis - INFO - 创建会话成功
+2025-04-24 17:33:05,360 - analytics.ai_analysis - INFO - 开始保存男鞋任意报整理.xlsx的分析结果到数据库
+2025-04-24 17:33:05,394 - analytics.ai_analysis - INFO - 数据库连接成功
+2025-04-24 17:33:05,411 - analytics.ai_analysis - INFO - 插入新记录: 男鞋任意报整理.xlsx
+2025-04-24 17:33:05,411 - analytics.ai_analysis - INFO - 男鞋任意报整理.xlsx的分析结果已成功保存到数据库
+2025-04-24 17:33:05,414 - analytics.ai_analysis - INFO - 处理文件: 男鞋周报整理.xlsx, 将使用提问: 帮我分析男鞋周报整理数据生成一份详细报告
+2025-04-24 17:33:05,498 - analytics.ai_analysis - INFO - 文件 男鞋周报整理.xlsx 已成功上传到 MinIO 路径: http://localhost:9000/excel-reports/男鞋周报整理.xlsx
+2025-04-24 17:33:05,966 - analytics.ai_analysis - INFO - 文档处理状态: RUNNING
+2025-04-24 17:33:15,977 - analytics.ai_analysis - INFO - 文档处理状态: RUNNING
+2025-04-24 17:33:25,993 - analytics.ai_analysis - INFO - 文档处理状态: RUNNING
+2025-04-24 17:33:36,010 - analytics.ai_analysis - INFO - 文档处理状态: RUNNING
+2025-04-24 17:33:46,024 - analytics.ai_analysis - INFO - 文档处理状态: RUNNING
+2025-04-24 17:33:56,040 - analytics.ai_analysis - INFO - 文档处理状态: RUNNING
+2025-04-24 17:34:06,053 - analytics.ai_analysis - INFO - 文档处理状态: RUNNING
+2025-04-24 17:34:16,069 - analytics.ai_analysis - INFO - 文档处理状态: RUNNING
+2025-04-24 17:34:26,081 - analytics.ai_analysis - INFO - 文档处理状态: RUNNING
+2025-04-24 17:34:36,095 - analytics.ai_analysis - INFO - 文档处理状态: RUNNING
+2025-04-24 17:34:46,106 - analytics.ai_analysis - INFO - 文档处理状态: RUNNING
+2025-04-24 17:34:56,122 - analytics.ai_analysis - INFO - 文档处理状态: DONE
+2025-04-24 17:34:56,132 - analytics.ai_analysis - INFO - 创建新助手: 贾维斯_男鞋周报整理.xlsx
+2025-04-24 17:34:56,176 - analytics.ai_analysis - INFO - 创建助手成功
+2025-04-24 17:34:56,176 - analytics.ai_analysis - INFO - 创建新会话: 数据分析_男鞋周报整理_1745487296
+2025-04-24 17:34:56,212 - analytics.ai_analysis - INFO - 创建会话成功
+2025-04-24 17:35:33,095 - analytics.ai_analysis - INFO - 开始保存男鞋周报整理.xlsx的分析结果到数据库
+2025-04-24 17:35:33,137 - analytics.ai_analysis - INFO - 数据库连接成功
+2025-04-24 17:35:33,156 - analytics.ai_analysis - INFO - 插入新记录: 男鞋周报整理.xlsx
+2025-04-24 17:35:33,157 - analytics.ai_analysis - INFO - 男鞋周报整理.xlsx的分析结果已成功保存到数据库

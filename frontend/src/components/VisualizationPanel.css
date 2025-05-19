@@ -1,0 +1,106 @@
+.visualization-panel {
+  margin-bottom: 20px;
+}
+
+.sheet-selector {
+  margin-bottom: 16px;
+  display: flex;
+  align-items: center;
+}
+
+.selector-label {
+  margin-right: 8px;
+  font-weight: 500;
+}
+
+.loading-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 400px;
+}
+
+.metrics-container {
+  margin-bottom: 20px;
+  padding: 16px;
+  background-color: #f9f9f9;
+  border-radius: 4px;
+}
+
+.visualization-tabs {
+  margin-top: 16px;
+}
+
+.chart-container {
+  padding: 8px;
+  border: 1px solid #f0f0f0;
+  border-radius: 4px;
+}
+
+/* 新增分类选择器样式 */
+.category-selector {
+  margin: 16px 0;
+  padding: 16px;
+  border: 1px solid #f0f0f0;
+  border-radius: 4px;
+  background-color: #fafafa;
+}
+
+.category-selector-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 12px;
+}
+
+.category-selector-header h4 {
+  margin: 0;
+  color: #333;
+}
+
+.category-checkbox-group {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  max-height: 120px;
+  overflow-y: auto;
+}
+
+.category-checkbox-group .ant-checkbox-wrapper {
+  margin-right: 8px;
+  margin-bottom: 8px;
+}
+
+.ant-statistic-title {
+  font-size: 14px;
+  font-weight: 500;
+}
+
+.ant-statistic-content {
+  color: #333;
+}
+
+.ant-empty {
+  margin: 40px 0;
+}
+
+/* 响应式调整 */
+@media (max-width: 768px) {
+  .metrics-container .ant-col {
+    margin-bottom: 10px;
+  }
+  
+  .ant-statistic-title {
+    font-size: 12px;
+  }
+  
+  .selector-label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  .sheet-selector {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+} 
